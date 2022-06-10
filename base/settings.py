@@ -74,7 +74,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'newwork',
         'USER': 'postgres',
-        'PASSWORD' : '140806',
+        'PASSWORD' : '#',
         'HOST' : 'localhost',
         'PORT' : '5432',
     }
